@@ -1,0 +1,540 @@
+{
+  "frames": {
+    "d392aa8e-07e0-4334-9727-bdb09b57ef3a": {
+      "frame": { "x": 2, "y": 2, "w": 1008, "h": 673 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1008, "h": 673 },
+      "sourceSize": { "w": 1008, "h": 673 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "f1b82a83-7261-4dbc-9fd7-27b37f249ce7": {
+      "frame": { "x": 1014, "y": 2, "w": 994, "h": 242 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 994, "h": 242 },
+      "sourceSize": { "w": 994, "h": 242 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "379b0c9a-c922-41b5-9114-9108c90d5112": {
+      "frame": { "x": 2012, "y": 2, "w": 31, "h": 18 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 31, "h": 18 },
+      "sourceSize": { "w": 31, "h": 18 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "8cefbf44-ea8a-46b0-b550-faa85a7768a8": {
+      "frame": { "x": 2012, "y": 24, "w": 28, "h": 17 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 17 },
+      "sourceSize": { "w": 28, "h": 17 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "a3b490e4-561e-4530-85c1-4b0c958d9703": {
+      "frame": { "x": 2044, "y": 24, "w": 2, "h": 22 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 61, "y": 3, "w": 2, "h": 22 },
+      "sourceSize": { "w": 122, "h": 36 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "7409eb15-d80c-4429-b2c9-334e8a447eba": {
+      "frame": { "x": 2012, "y": 45, "w": 26, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 26 },
+      "sourceSize": { "w": 26, "h": 26 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "e01a1c56-266e-4bfa-87bb-40e8430428d2": {
+      "frame": { "x": 2012, "y": 75, "w": 26, "h": 26 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 26 },
+      "sourceSize": { "w": 26, "h": 26 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "c6570718-c992-4ab8-a16c-d98345aad524": {
+      "frame": { "x": 2012, "y": 105, "w": 17, "h": 17 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 17, "h": 17 },
+      "sourceSize": { "w": 17, "h": 17 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "c57a738d-d8d6-4f11-aa9a-784b77bb3972": {
+      "frame": { "x": 1014, "y": 248, "w": 751, "h": 433 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 751, "h": 433 },
+      "sourceSize": { "w": 751, "h": 433 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "74404e0d-65b9-49b2-9d3c-9b2536b8db23": {
+      "frame": { "x": 1769, "y": 248, "w": 229, "h": 186 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 186 },
+      "sourceSize": { "w": 229, "h": 186 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "92ec25d4-1df6-441d-8783-fd5536d34bbf": {
+      "frame": { "x": 2002, "y": 248, "w": 44, "h": 29 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 44, "h": 29 },
+      "sourceSize": { "w": 44, "h": 29 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "5e4addd4-247b-4186-9d5b-01b25b61e50f": {
+      "frame": { "x": 2002, "y": 281, "w": 40, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 41 },
+      "sourceSize": { "w": 40, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "2940eaa9-a416-4913-a646-0cc599115369": {
+      "frame": { "x": 2002, "y": 326, "w": 40, "h": 35 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 35 },
+      "sourceSize": { "w": 40, "h": 35 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "6376572c-32af-455e-a9a3-5eec2cf0228e": {
+      "frame": { "x": 2002, "y": 365, "w": 40, "h": 34 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 40, "h": 34 },
+      "sourceSize": { "w": 40, "h": 34 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "000a9e5e-8408-4a8e-abdf-a9ad2d7b5f22": {
+      "frame": { "x": 2002, "y": 403, "w": 38, "h": 71 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 38, "h": 71 },
+      "sourceSize": { "w": 38, "h": 71 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "664e1d32-ef71-4c20-ac50-b34138fef150": {
+      "frame": { "x": 1769, "y": 438, "w": 229, "h": 105 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 105 },
+      "sourceSize": { "w": 229, "h": 105 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "67098a92-3f72-4a8e-ba1e-45025c8c65c9": {
+      "frame": { "x": 2002, "y": 478, "w": 36, "h": 36 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 36 },
+      "sourceSize": { "w": 36, "h": 36 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "9269d05d-d900-4c22-9fce-10ffa7f64ab3": {
+      "frame": { "x": 2002, "y": 518, "w": 36, "h": 21 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 36, "h": 21 },
+      "sourceSize": { "w": 36, "h": 21 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "162405cf-1ddd-4c2d-bd3b-9bd9d40ff045": {
+      "frame": { "x": 2002, "y": 543, "w": 35, "h": 22 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 44, "y": 3, "w": 35, "h": 22 },
+      "sourceSize": { "w": 122, "h": 36 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "86a4378a-b359-40a0-a565-5d9213bf7026": {
+      "frame": { "x": 1769, "y": 547, "w": 229, "h": 84 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 229, "h": 84 },
+      "sourceSize": { "w": 229, "h": 84 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "0cc91a90-b434-4843-9986-c4ee1f73265a": {
+      "frame": { "x": 1769, "y": 635, "w": 226, "h": 184 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 226, "h": 184 },
+      "sourceSize": { "w": 226, "h": 184 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "65439cbb-b077-4c62-8ed9-16dc92ac252b": {
+      "frame": { "x": 2, "y": 679, "w": 716, "h": 704 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 716, "h": 704 },
+      "sourceSize": { "w": 716, "h": 704 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "b54be442-8f1c-4faa-b20e-88bd3b73df20": {
+      "frame": { "x": 722, "y": 679, "w": 219, "h": 78 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 219, "h": 78 },
+      "sourceSize": { "w": 219, "h": 78 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "d6b28cfa-2a11-4ee9-80ad-ad1ca62cfd2a": {
+      "frame": { "x": 945, "y": 679, "w": 63, "h": 40 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 40 },
+      "sourceSize": { "w": 63, "h": 40 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "ff892c33-b491-4747-880f-71a4099e10e4": {
+      "frame": { "x": 1012, "y": 685, "w": 685, "h": 285 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 685, "h": 285 },
+      "sourceSize": { "w": 685, "h": 285 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "8ad7fc16-385d-482f-841b-40fd0af84573": {
+      "frame": { "x": 1701, "y": 823, "w": 342, "h": 342 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 342, "h": 342 },
+      "sourceSize": { "w": 342, "h": 342 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "3d5ed529-d8d1-47ea-ab9b-ccd89c57dd79": {
+      "frame": { "x": 945, "y": 723, "w": 58, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 56 },
+      "sourceSize": { "w": 58, "h": 56 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "6ee0319a-bed2-4656-963e-5b5cb1e5593c": {
+      "frame": { "x": 722, "y": 761, "w": 216, "h": 56 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 216, "h": 56 },
+      "sourceSize": { "w": 216, "h": 56 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "724d2e73-f494-4f38-89b8-a1fc202d9618": {
+      "frame": { "x": 1701, "y": 685, "w": 58, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 14 },
+      "sourceSize": { "w": 58, "h": 14 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "7611dc10-8707-46d6-b795-a3cfafdaf683": {
+      "frame": { "x": 1701, "y": 703, "w": 58, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 14 },
+      "sourceSize": { "w": 58, "h": 14 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "fd8e9466-a19e-455d-bd69-59df90e73a1d": {
+      "frame": { "x": 1701, "y": 721, "w": 57, "h": 59 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 59 },
+      "sourceSize": { "w": 57, "h": 59 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "7e526a25-53c6-4a00-86c0-d62177cafde3": {
+      "frame": { "x": 722, "y": 821, "w": 213, "h": 84 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 213, "h": 84 },
+      "sourceSize": { "w": 213, "h": 84 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "abcddc37-5879-484c-a2cf-67f2840480c9": {
+      "frame": { "x": 939, "y": 821, "w": 69, "h": 68 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 69, "h": 68 },
+      "sourceSize": { "w": 69, "h": 68 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "a90971a6-877d-4529-b692-ea0d2d78276e": {
+      "frame": { "x": 939, "y": 893, "w": 68, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 70 },
+      "sourceSize": { "w": 68, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "8f092609-241d-41f7-89fd-15ac8cf87423": {
+      "frame": { "x": 722, "y": 909, "w": 190, "h": 54 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 190, "h": 54 },
+      "sourceSize": { "w": 190, "h": 54 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "873e05a8-0970-4683-94b8-e78799a7ce03": {
+      "frame": { "x": 722, "y": 967, "w": 155, "h": 83 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 155, "h": 83 },
+      "sourceSize": { "w": 155, "h": 83 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "e4fd52e1-5d38-4fb1-aa5b-067ccd7181fb": {
+      "frame": { "x": 881, "y": 967, "w": 125, "h": 125 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 125, "h": 125 },
+      "sourceSize": { "w": 125, "h": 125 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "a8310a0a-a46b-4d50-9daf-4bcb7efd8e08": {
+      "frame": { "x": 722, "y": 1054, "w": 144, "h": 62 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 144, "h": 62 },
+      "sourceSize": { "w": 144, "h": 62 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "364c9582-0119-46ab-beca-8c49be036855": {
+      "frame": { "x": 1010, "y": 974, "w": 559, "h": 390 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 559, "h": 390 },
+      "sourceSize": { "w": 559, "h": 390 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "016c8d85-37f5-46cf-804c-037d23002062": {
+      "frame": { "x": 870, "y": 1096, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "fc1ce277-7b99-427c-a01f-c8cbb23ccda5": {
+      "frame": { "x": 722, "y": 1120, "w": 143, "h": 98 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 143, "h": 98 },
+      "sourceSize": { "w": 143, "h": 98 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "ffdbbe4b-0831-4d03-a994-ade193269530": {
+      "frame": { "x": 1573, "y": 974, "w": 115, "h": 116 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 115, "h": 116 },
+      "sourceSize": { "w": 115, "h": 116 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "5f011983-509e-40c5-9577-6ac2ba64d170": {
+      "frame": { "x": 1573, "y": 1094, "w": 110, "h": 27 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 6, "y": 3, "w": 110, "h": 27 },
+      "sourceSize": { "w": 122, "h": 36 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "2906a877-3577-45ec-a7de-44df3df161db": {
+      "frame": { "x": 1573, "y": 1125, "w": 105, "h": 19 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 9, "y": 5, "w": 105, "h": 19 },
+      "sourceSize": { "w": 122, "h": 36 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "821c6b2d-5a01-43f1-8918-112d2aff05a1": {
+      "frame": { "x": 1573, "y": 1148, "w": 84, "h": 84 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 84, "h": 84 },
+      "sourceSize": { "w": 84, "h": 84 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "4038a4ab-ba41-4115-8ddd-2305ade55af2": {
+      "frame": { "x": 1661, "y": 1169, "w": 332, "h": 333 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 332, "h": 333 },
+      "sourceSize": { "w": 332, "h": 333 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "d438a4a0-a401-4481-942e-891de2e4a441": {
+      "frame": { "x": 1573, "y": 1236, "w": 83, "h": 95 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 95 },
+      "sourceSize": { "w": 83, "h": 95 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "b91953a8-8c58-4629-aa9a-53564de7fa0b": {
+      "frame": { "x": 1573, "y": 1335, "w": 79, "h": 41 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 79, "h": 41 },
+      "sourceSize": { "w": 79, "h": 41 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "5eaa3741-ed49-4dec-aa77-6e623bcee871": {
+      "frame": { "x": 2, "y": 1506, "w": 499, "h": 496 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 499, "h": 496 },
+      "sourceSize": { "w": 499, "h": 496 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "d80861ae-9af0-4bea-960c-9246cb24f703": {
+      "frame": { "x": 505, "y": 1506, "w": 496, "h": 496 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 496, "h": 496 },
+      "sourceSize": { "w": 496, "h": 496 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "ccbec4e2-2537-4b3a-98a4-7391de480550": {
+      "frame": { "x": 2, "y": 1387, "w": 67, "h": 71 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 67, "h": 71 },
+      "sourceSize": { "w": 67, "h": 71 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "01afca0b-2dd3-4dd4-99a3-c960b71d7567": {
+      "frame": { "x": 73, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "138421bb-6e2b-4dc7-96dc-ce9d65f191f6": {
+      "frame": { "x": 147, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "5c32d612-e9cd-47a0-9d2f-fb59014ec2d7": {
+      "frame": { "x": 221, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "754fdb06-47c0-4dae-817f-1ef3a62d0e98": {
+      "frame": { "x": 295, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "77634ae7-ba71-4213-b15c-31da2d56240b": {
+      "frame": { "x": 369, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "9830def5-f4b6-4f50-8fc3-0ddaf8df8b0e": {
+      "frame": { "x": 443, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "fc60e5dc-ca0d-4e83-a07f-fc2e96b92cc0": {
+      "frame": { "x": 517, "y": 1387, "w": 70, "h": 70 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 70 },
+      "sourceSize": { "w": 70, "h": 70 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "e6711fda-e0cc-425e-9cca-d3fe955a89af": {
+      "frame": { "x": 591, "y": 1387, "w": 70, "h": 69 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 70, "h": 69 },
+      "sourceSize": { "w": 70, "h": 69 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "da06589a-db1e-4e2e-a3e3-3e9befb6d83b": {
+      "frame": { "x": 665, "y": 1387, "w": 68, "h": 68 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 68 },
+      "sourceSize": { "w": 68, "h": 68 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "be1e3f75-972f-4f04-a3a9-78de25de98a8": {
+      "frame": { "x": 737, "y": 1387, "w": 68, "h": 61 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 68, "h": 61 },
+      "sourceSize": { "w": 68, "h": 61 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "5535f4af-64f7-4e0f-bada-4b17a75571f6": {
+      "frame": { "x": 1005, "y": 1368, "w": 492, "h": 192 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 492, "h": 192 },
+      "sourceSize": { "w": 492, "h": 192 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "f850c35c-8bb8-4a76-bc22-03d5cf4e511d": {
+      "frame": { "x": 1501, "y": 1506, "w": 492, "h": 191 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 492, "h": 191 },
+      "sourceSize": { "w": 492, "h": 191 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "c1cce3b5-5600-408f-854a-9ff560962a22": {
+      "frame": { "x": 1005, "y": 1701, "w": 332, "h": 333 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 332, "h": 333 },
+      "sourceSize": { "w": 332, "h": 333 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "39e3e844-7849-41e5-85a9-c897ea7c95fb": {
+      "frame": { "x": 1341, "y": 1701, "w": 331, "h": 332 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 331, "h": 332 },
+      "sourceSize": { "w": 331, "h": 332 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    },
+    "67ea801d-4b2a-495b-a51d-da0d01065507": {
+      "frame": { "x": 1676, "y": 1701, "w": 331, "h": 332 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 331, "h": 332 },
+      "sourceSize": { "w": 331, "h": 332 },
+      "pivot": { "x": 0.5, "y": 0.5 }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.4",
+    "image": "atlas_tiny-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 2036 },
+    "scale": 1
+  }
+}
